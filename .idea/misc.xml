@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/creators/builder/pom.xml" />
         <option value="$PROJECT_DIR$/creators/singleton/pom.xml" />
         <option value="$PROJECT_DIR$/creators/prototype/pom.xml" />
+        <option value="$PROJECT_DIR$/Behavioral/Observer/pom.xml" />
       </list>
     </option>
   </component>

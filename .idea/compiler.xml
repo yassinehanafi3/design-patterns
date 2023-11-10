@@ -9,6 +9,7 @@
         <module name="builder" />
         <module name="singleton" />
         <module name="prototype" />
+        <module name="Observer" />
       </profile>
     </annotationProcessing>
   </component>
